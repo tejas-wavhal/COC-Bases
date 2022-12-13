@@ -1,0 +1,29 @@
+.sizeOfTownhall {
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 21px;
+    background-color: rgb(235, 233, 233);
+    margin: 10px;
+    transition: all 0.5s ease 0s;
+}
+
+.sizeOfTownhall:hover {
+    background-color: rgb(255, 207, 118);
+    border-radius: 40px;
+}
+
+.sizeOfTownhall:active {
+    background-color: rgb(190, 124, 0);
+}
+
+.sizeOfTownhall h2 {
+    color: black;
+}
+
+.sizeOfTownhall img {
+    height: 160px;
+}
+
+.h1 {
+    margin: 10px;
+}
